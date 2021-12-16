@@ -1,0 +1,31 @@
+{
+  "name": "forza-club-owner",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "material-ui": "^0.20.2",
+    "promise-polyfill": "8.1.0",
+    "rc-tween-one": "^2.2.7",
+    "react": "^16.4.1",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "react-slick": "^0.23.1",
+    "react-tap-event-plugin": "^3.0.3",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "unfetch": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "redux": "^4.0.0"
+  }
+}

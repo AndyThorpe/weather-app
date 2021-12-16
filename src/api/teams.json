@@ -1,0 +1,1177 @@
+{
+  "leagues": [
+    {
+      "id":1,
+      "leagueName":"Premier League",
+      "countryCode":"gb",
+      "country":"England",
+      "flag":"assets/flag/img/spain.png",
+      "numberOfTeams":20,
+      "teams":[{
+          "teamId": 100,
+          "teamName":"Manchester City",
+          "value": 4.25,
+          "points": 0,
+          "forzaId": 17
+        },
+        {
+          "teamId": 101,
+          "teamName":"Manchester United",
+          "value": 3.05,
+          "points": 0,
+          "forzaId": 35
+
+        },
+        {
+          "teamId": 104,
+          "teamName":"Chelsea",
+          "value": 3.8,
+          "points": 0,
+          "forzaId": 38
+        },
+        {
+          "teamId": 105,
+          "teamName":"Arsenal",
+          "value": 2.85,
+          "points": 0,
+          "forzaId": 42
+        },
+        {
+          "teamId": 102,
+          "teamName":"Tottenham",
+          "value": 2.9,
+          "points": 0,
+          "forzaId": 33
+        },
+        {
+          "teamId": 103,
+          "teamName":"Liverpool",
+          "value": 3.9,
+          "points": 0,
+          "forzaId": 44
+        },
+        {
+          "teamId": 106,
+          "teamName":"Burnley",
+          "value": 2,
+          "points": 0,
+          "forzaId": 6
+        },
+        {
+          "teamId": 107,
+          "teamName":"Everton",
+          "value": 2.1,
+          "points": 0,
+          "forzaId": 48
+        },
+        {
+          "teamId": 108,
+          "teamName":"Leicester",
+          "value": 1.8,
+          "points": 0,
+          "forzaId": 31
+        },
+        {
+          "teamId": 109,
+          "teamName":"Newcastle",
+          "value": 1.75,
+          "points": 0,
+          "forzaId": 39
+        },
+        {
+          "teamId": 110,
+          "teamName":"Crystal Palace",
+          "value": 1.55,
+          "points": 0,
+          "forzaId": 7
+        },
+        {
+          "teamId": 111,
+          "teamName":"Bournemouth",
+          "value": 1.5,
+          "points": 0,
+          "forzaId": 60
+        },
+        {
+          "teamId": 112,
+          "teamName":"West Ham",
+          "value": 1.45,
+          "points": 0,
+          "forzaId": 37
+        },
+        {
+          "teamId": 113,
+          "teamName":"Watford",
+          "value": 1.35,
+          "points": 0,
+          "forzaId": 24
+        },
+        {
+          "teamId": 114,
+          "teamName":"Brighton",
+          "value": 1.2,
+          "points": 0,
+          "forzaId": 30
+        },
+        {
+          "teamId": 115,
+          "teamName":"Huddersfield",
+          "value": 1.15,
+          "points": 0,
+          "forzaId": 59
+        },
+        {
+          "teamId": 116,
+          "teamName":"Southhampton",
+          "value": 1.25,
+          "points": 0,
+          "forzaId": 45
+        },
+        {
+          "teamId": 117,
+          "teamName":"Cardiff",
+          "value": 0.65,
+          "points": 0,
+          "forzaId": 61
+        },  
+        {
+          "teamId": 118,
+          "teamName":"Fulham",
+          "value": 0.75,
+          "points": 0,
+          "forzaId": 43
+        },
+        {
+          "teamId": 119,
+          "teamName":"Wolves",
+          "value": 0.75,
+          "points": 0,
+          "forzaId": 3
+        }
+      ]
+    },
+    {
+      "id":2,
+      "leagueName":"La Liga",
+      "countryCode":"es",
+      "country":"England",
+      "flag":"assets/flag/img/spain.png",
+      "numberOfTeams":20,
+      "teams":[{
+          "teamId": 200,
+          "teamName":"Barcelona",
+          "value": 4.9,
+          "points": 0,
+          "forzaId": 2817
+        },
+        {
+          "teamId": 201,
+          "teamName":"Real Madrid",
+          "value": 4.8,
+          "points": 0,
+          "forzaId": 2829
+        },
+        {
+          "teamId": 202,
+          "teamName":"Athletico Madrid",
+          "value": 3.8,
+          "points": 0,
+          "forzaId": 2836
+        },
+        {
+          "teamId": 203,
+          "teamName":"Sevilla",
+          "value": 3.25,
+          "points": 0,
+          "forzaId": 2833
+        },
+        {
+          "teamId": 204,
+          "teamName":"Valencia",
+          "value": 3.2,
+          "points": 0,
+          "forzaId": 2828
+        },
+         {
+          "teamId": 205,
+          "teamName":"Athletic Bilbao",
+          "value": 3.2,
+          "points": 0,
+          "forzaId": 2825
+        },
+         {
+          "teamId": 206,
+          "teamName":"Villareal",
+          "value": 3.2,
+          "points": 0,
+          "forzaId": 2819
+        },
+         {
+          "teamId": 207,
+          "teamName":"Real Sociedad",
+          "value": 3.2,
+          "points": 0,
+          "forzaId": 2824
+        },
+         {
+          "teamId": 208,
+          "teamName":"Celta de Vigo",
+          "value": 3.2,
+          "points": 0,
+          "forzaId": 2821
+        },
+         {
+          "teamId": 209,
+          "teamName":"Real Betis",
+          "value": 3.2,
+          "points": 0,
+          "forzaId": 2816
+        },
+         {
+          "teamId": 210,
+          "teamName":"CD Leganes",
+          "value": 3.2,
+          "points": 0,
+          "forzaId": 2845
+        },
+         {
+          "teamId": 211,
+          "teamName":"Girona",
+          "value": 1.3,
+          "points": 0,
+          "forzaId": 24264
+        },
+         {
+          "teamId": 212,
+          "teamName":"Getafe",
+          "value": 1.5,
+          "points": 0,
+          "forzaId": 2859
+        },
+         {
+          "teamId": 213,
+          "teamName":"Espanyol",
+          "value": 1.25,
+          "points": 0,
+          "forzaId": 2814
+        },
+         {
+          "teamId": 214,
+          "teamName":"Levante",
+          "value": 1.1,
+          "points": 0,
+          "forzaId": 2849
+        },
+         {
+          "teamId": 215,
+          "teamName":"Alaves",
+          "value": 1,
+          "points": 0,
+          "forzaId": 2885
+        },
+         {
+          "teamId": 216,
+          "teamName":"Eibar",
+          "value": 0.9,
+          "points": 0,
+          "forzaId": 2839
+        },
+         {
+          "teamId": 217,
+          "teamName":"Huesca",
+          "value": 0.8,
+          "points": 0,
+          "forzaId": 24265
+        },
+         {
+          "teamId": 218,
+          "teamName":"Vallecano",
+          "value": 0.7,
+          "points": 0,
+          "forzaId": 2818
+        },
+         {
+          "teamId": 219,
+          "teamName":"Valladolid",
+          "value": 0.6,
+          "points": 0,
+          "forzaId": 2831
+        }
+      ]
+    },
+     {
+      "id":3,
+      "leagueName":"Serie A",
+      "countryCode":"it",
+      "country":"Italy",
+      "flag":"assets/flag/img/italy.png",
+      "numberOfTeams":20,
+      "teams":[{
+          "teamId": 300,
+          "teamName":"Juventus",
+          "value": 4.85,
+          "points": 0,
+          "forzaId": 2687
+
+        },
+        {
+          "teamId": 301,
+          "teamName":"Napoli",
+          "value": 3.25,
+          "points": 0,
+          "forzaId": 2714
+        },
+        {
+          "teamId": 302,
+          "teamName":"Roma",
+          "value": 3.5,
+          "points": 0,
+          "forzaId": 2702
+        },
+        {
+          "teamId": 303,
+          "teamName":"Inter",
+          "value": 3,
+          "points": 0,
+          "forzaId": 2697
+        },
+        {
+          "teamId": 304,
+          "teamName":"Lazio",
+          "value": 2.8,
+          "points": 0,
+          "forzaId": 2699
+        },
+        {
+          "teamId": 305,
+          "teamName":"AC Milan",
+          "value": 2.8,
+          "points": 0,
+          "forzaId": 2692
+        },
+        {
+          "teamId": 306,
+          "teamName":"Atalanta",
+          "value": 1.9,
+          "points": 0,
+          "forzaId": 2686
+        },
+        {
+          "teamId": 307,
+          "teamName":"Fiorentina",
+          "value": 1.8,
+          "points": 0,
+          "forzaId": 2693
+        },
+        {
+          "teamId": 308,
+          "teamName":"Torino",
+          "value": 1.4,
+          "points": 0,
+          "forzaId": 2696
+        },
+        {
+          "teamId": 309,
+          "teamName":"Sampdoria",
+          "value": 1.2,
+          "points": 0,
+          "forzaId": 2711
+        },
+        {
+          "teamId": 310,
+          "teamName":"Sassuolo",
+          "value": 0.9,
+          "points": 0,
+          "forzaId": 2793
+        },
+        {
+          "teamId": 311,
+          "teamName":"Genoa",
+          "value": 1.1,
+          "points": 0,
+          "forzaId": 2713
+        },
+        {
+          "teamId": 312,
+          "teamName":"Chievo",
+          "value": 0.35,
+          "points": 0,
+          "forzaId": 2694
+        },
+        {
+          "teamId": 313,
+          "teamName":"Udinese",
+          "value": 1,
+          "points": 0,
+          "forzaId": 2695
+        },
+        {
+          "teamId": 314,
+          "teamName":"Bologna",
+          "value": 0.8,
+          "points": 0,
+          "forzaId": 2685
+        },
+        {
+          "teamId": 315,
+          "teamName":"Cagliari",
+          "value": 0.75,
+          "points": 0,
+          "forzaId": 2719
+        },
+        {
+          "teamId": 316,
+          "teamName":"SPAL",
+          "value": 0.6,
+          "points": 0,
+          "forzaId": 2739
+        },
+        {
+          "teamId": 317,
+          "teamName":"Empoli",
+          "value": 0.7,
+          "points": 0,
+          "forzaId": 2705
+        },
+        {
+          "teamId": 318,
+          "teamName":"Parma",
+          "value": 0.7,
+          "points": 0,
+          "forzaId": 2690
+        },
+        {
+          "teamId": 319,
+          "teamName":"Frosinone",
+          "value": 0.4,
+          "points": 0,
+          "forzaId": 2801
+        }
+       
+      ]
+    },
+     {
+      "id":4,
+      "leagueName":"Bundesliga",
+      "countryCode":"de",
+      "country":"Germany",
+      "flag":"assets/flag/img/germany.png",
+      "numberOfTeams":20,
+      "teams":[{
+        "teamId": 400,
+        "teamName":"Bayern Munich",
+        "value": 4.5,
+        "points": 0,
+        "forzaId": 2672
+
+      },
+      {
+        "teamId": 401,
+        "teamName":"Dortmund",
+        "value": 3.6,
+        "points": 0,
+        "forzaId": 2673
+
+      },
+      {
+        "teamId": 402,
+        "teamName":"Wolfsburg",
+        "value": 2,
+        "points": 0,
+        "forzaId": 2524
+
+      },
+      {
+        "teamId": 403,
+        "teamName":"Schalke 04",
+        "value": 2.3,
+        "points": 0,
+        "forzaId": 2530
+
+      },
+      {
+        "teamId": 404,
+        "teamName":"1899 Hoffenheim",
+        "value": 2.1,
+        "points": 0,
+        "forzaId": 2569
+
+      },
+      {
+        "teamId": 405,
+        "teamName":"Bayer Leverkusen",
+        "value": 2,
+        "points": 0,
+        "forzaId": 2681
+
+      },
+      {
+        "teamId": 406,
+        "teamName":"RB Leipzig",
+        "value": 2,
+        "points": 0,
+        "forzaId": 36360
+
+      },
+      {
+        "teamId": 407,
+        "teamName":"VfB Stuttgart",
+        "value": 1.9,
+        "points": 0,
+        "forzaId": 2677
+
+      },
+      {
+        "teamId": 408,
+        "teamName":"Eintracht Frankfurt",
+        "value": 1.7,
+        "points": 0,
+        "forzaId": 2674
+
+      },
+      {
+        "teamId": 409,
+        "teamName":"Borussia Mönchengladbach",
+        "value": 1.5,
+        "points": 0,
+        "forzaId": 2527
+      },
+      {
+        "teamId": 410,
+        "teamName":"Hertha BSC",
+        "value": 1.3,
+        "points": 0,
+        "forzaId": 2528
+
+      },
+      {
+        "teamId": 411,
+        "teamName":"Werder Bremen",
+        "value": 1.2,
+        "points": 0,
+        "forzaId": 2534
+
+      },
+      {
+        "teamId": 412,
+        "teamName":"FC Augsburg",
+        "value": 1.1,
+        "points": 0,
+        "forzaId": 2600
+
+      },
+      {
+        "teamId": 413,
+        "teamName":"Hannover 96",
+        "value": 0.9,
+        "points": 0,
+        "forzaId": 2541
+
+      },
+      {
+        "teamId": 414,
+        "teamName":"Mainz 05",
+        "value": 0.8,
+        "points": 0,
+        "forzaId": 2556
+
+      },
+      {
+        "teamId": 415,
+        "teamName":"SC Freiburg",
+        "value": 0.7,
+        "points": 0,
+        "forzaId": 2538
+
+      },
+      {
+        "teamId": 416,
+        "teamName":"Fortuna Düsseldorf",
+        "value": 0.65,
+        "points": 0,
+        "forzaId": 2588
+
+      },
+      {
+        "teamId": 417,
+        "teamName":"1. FC Nürnberg",
+        "value": 0.5,
+        "points": 0,
+        "forzaId": 2523
+
+      }
+      ]
+    },
+     {
+      "id":5,
+      "leagueName":"Ligue 1",
+      "countryCode":"fr",
+      "country":"France",
+      "flag":"assets/flag/img/france.png",
+      "numberOfTeams":20,
+      "teams":[{
+          "teamId": 500,
+          "teamName":"PSG",
+          "value": 4.65,
+          "points": 0,
+          "forzaId": 1644
+
+        },
+        {
+          "teamId": 501,
+          "teamName":"Monaco",
+          "value": 3.05,
+          "points": 0,
+          "forzaId": 1653
+
+        },
+        {
+          "teamId": 502,
+          "teamName":"Lyon",
+          "value": 3.25,
+          "points": 0,
+          "forzaId": 1649
+
+        },
+        {
+          "teamId": 503,
+          "teamName":"Marseille",
+          "value": 3.1,
+          "points": 0,
+          "forzaId": 1641
+
+        },
+        {
+          "teamId": 504,
+          "teamName":"Rennes",
+          "value": 2.5,
+          "points": 0,
+          "forzaId": 1658
+
+        },
+        {
+          "teamId": 505,
+          "teamName":"Bordeaux",
+          "value": 2.6,
+          "points": 0,
+          "forzaId": 1645
+
+        },
+        {
+          "teamId": 506,
+          "teamName":"Saint-Étienne",
+          "value": 2.2,
+          "points": 0,
+          "forzaId": 1678
+
+        },
+        {
+          "teamId": 507,
+          "teamName":"Nice",
+          "value": 2.1,
+          "points": 0,
+          "forzaId": 1661
+
+        },
+        {
+          "teamId": 508,
+          "teamName":"Nantes",
+          "value": 2,
+          "points": 0,
+          "forzaId": 1647
+
+        },
+        {
+          "teamId": 509,
+          "teamName":"Montpellier",
+          "value": 1.9,
+          "points": 0,
+          "forzaId": 1642
+
+        },
+        {
+          "teamId": 510,
+          "teamName":"Dijon",
+          "value": 1.8,
+          "points": 0,
+          "forzaId": 1686
+
+        },
+        {
+          "teamId": 511,
+          "teamName":"Guingamp",
+          "value": 1.7,
+          "points": 0,
+          "forzaId": 1654
+
+        },
+        {
+          "teamId": 512,
+          "teamName":"Amiens",
+          "value": 1.6,
+          "points": 0,
+          "forzaId": 1676
+
+        },
+        {
+          "teamId": 513,
+          "teamName":"Angers",
+          "value": 1.5,
+          "points": 0,
+          "forzaId": 1684
+
+        },
+        {
+          "teamId": 514,
+          "teamName":"Strasbourg",
+          "value": 1.5,
+          "points": 0,
+          "forzaId": 1659
+
+        },
+        {
+          "teamId": 515,
+          "teamName":"Caen",
+          "value": 1.3,
+          "points": 0,
+          "forzaId": 1667
+
+        },
+        {
+          "teamId": 516,
+          "teamName":"Lille",
+          "value": 1.2,
+          "points": 0,
+          "forzaId": 1643
+
+        },
+        {
+          "teamId": 517,
+          "teamName":"Toulouse",
+          "value": 1.1,
+          "points": 0,
+          "forzaId": 1681
+
+        },
+        {
+          "teamId": 518,
+          "teamName":"Reims",
+          "value": 0.9,
+          "points": 0,
+          "forzaId": 1682
+
+        },
+        {
+          "teamId": 519,
+          "teamName":"Nîmes",
+          "value": 0.6,
+          "points": 0,
+          "forzaId": 1663
+
+        }
+      ]
+    },
+
+     {
+      "id":6,
+      "leagueName":"Primeira Liga",
+      "countryCode":"pt",
+      "country":"Portugal",
+      "flag":"assets/flag/img/portugal.png",
+      "numberOfTeams":20,
+      "teams":[{
+          "teamId": 600,
+          "teamName":"Porto",
+          "value": 3.65,
+          "points": 0,
+          "forzaId": 3002
+        },
+        {
+          "teamId": 601,
+          "teamName":"Benfica",
+          "value": 3.25,
+          "points": 0,
+          "forzaId": 3006
+        },
+        {
+          "teamId": 602,
+          "teamName":"Sporting CP",
+          "value": 2.8,
+          "points": 0,
+          "forzaId": 3001
+        },
+        {
+          "teamId": 603,
+          "teamName":"Braga",
+          "value": 2.2,
+          "points": 0,
+          "forzaId": 2999
+        },
+        {
+          "teamId": 604,
+          "teamName":"Rio Ave",
+          "value": 1.9,
+          "points": 0,
+          "forzaId": 3036
+        },
+        {
+          "teamId": 605,
+          "teamName":"Chaves",
+          "value": 1.5,
+          "points": 0,
+          "forzaId": 3025
+        },
+        {
+          "teamId": 606,
+          "teamName":"Marítimo",
+          "value": 1.65,
+          "points": 0,
+          "forzaId": 3007
+        },
+        {
+          "teamId": 607,
+          "teamName":"Boavista",
+          "value": 1.4,
+          "points": 0,
+          "forzaId": 2995
+        },
+        {
+          "teamId": 608,
+          "teamName":"Vitória de Guimarães",
+          "value": 1.3,
+          "points": 0,
+          "forzaId": 3009
+        },
+        {
+          "teamId": 609,
+          "teamName":"Portimonense",
+          "value": 1.1,
+          "points": 0,
+          "forzaId": 3026
+        },
+        {
+          "teamId": 610,
+          "teamName":"Tondela",
+          "value": 0.9,
+          "points": 0,
+          "forzaId": 38396
+        },
+        {
+          "teamId": 611,
+          "teamName":"Belenenses",
+          "value": 0.8,
+          "points": 0,
+          "forzaId": 3004
+        },
+        {
+          "teamId": 612,
+          "teamName":"Desportivo das Aves",
+          "value": 0.7,
+          "points": 0,
+          "forzaId": 3032
+        },
+        {
+          "teamId": 613,
+          "teamName":"Vitória de Setúbal",
+          "value": 0.6,
+          "points": 0,
+          "forzaId": 3008
+        },
+        {
+          "teamId": 614,
+          "teamName":"Moreirense",
+          "value": 0.5,
+          "points": 0,
+          "forzaId": 3014
+        },
+        {
+          "teamId": 615,
+          "teamName":"Feirense",
+          "value": 0.5,
+          "points": 0,
+          "forzaId": 4501
+        },
+        {
+          "teamId": 616,
+          "teamName":"Nacional",
+          "value": 0.6,
+          "points": 0,
+          "forzaId": 3013
+        },
+        {
+          "teamId": 617,
+          "teamName":"Santa Clara",
+          "value": 0.4,
+          "points": 0,
+          "forzaId": 3011
+        }
+       
+      ]
+  
+},
+
+  {
+      "id":6,
+      "leagueName":"Eredivisie",
+      "countryCode":"nl",
+      "country":"Netherlands",
+      "flag":"assets/flag/img/netherlands.png",
+      "numberOfTeams":20,
+      "teams":[{
+          "teamId": 700,
+          "teamName":"Ajax",
+          "value": 3.35,
+          "points": 0,
+          "forzaId": 2953
+        },
+        {
+          "teamId": 701,
+          "teamName":"PSV",
+          "value": 3.25,
+          "points": 0,
+          "forzaId": 2952
+        },
+        {
+          "teamId": 702,
+          "teamName":"Feyenoord",
+          "value": 2.9,
+          "points": 0,
+          "forzaId": 2959
+        },
+        {
+          "teamId": 703,
+          "teamName":"Heerenveen",
+          "value": 2.3,
+          "points": 0,
+          "forzaId": 2964
+        },
+        {
+          "teamId": 704,
+          "teamName":"Vitesse",
+          "value": 2,
+          "points": 0,
+          "forzaId": 2958
+        },
+        {
+          "teamId": 705,
+          "teamName":"Utrecht",
+          "value": 1.9,
+          "points": 0,
+          "forzaId": 2948
+        },
+        {
+          "teamId": 706,
+          "teamName":"Groningen",
+          "value": 2.1,
+          "points": 0,
+          "forzaId": 2951
+        },
+        {
+          "teamId": 707,
+          "teamName":"NAC Breda",
+          "value": 1.7,
+          "points": 0,
+          "forzaId": 2947
+        },
+        {
+          "teamId": 708,
+          "teamName":"AZ",
+          "value": 1.9,
+          "points": 0,
+          "forzaId": 2950
+        },
+        {
+          "teamId": 709,
+          "teamName":"ADO Den Haag",
+          "value": 1.4,
+          "points": 0,
+          "forzaId": 2966
+        },
+        {
+          "teamId": 710,
+          "teamName":"Willem II",
+          "value": 1.5,
+          "points": 0,
+          "forzaId": 2961
+        },
+        {
+          "teamId": 711,
+          "teamName":"De Graafschap",
+          "value": 1.4,
+          "points": 0,
+          "forzaId": 2949
+        },
+        {
+          "teamId": 712,
+          "teamName":"PEC Zwolle",
+          "value": 1.3,
+          "points": 0,
+          "forzaId": 2971
+        },
+        {
+          "teamId": 713,
+          "teamName":"Heracles Almelo",
+          "value": 1.2,
+          "points": 0,
+          "forzaId": 2977
+        },
+        {
+          "teamId": 714,
+          "teamName":"Fortuna Sittard",
+          "value": 1.1,
+          "points": 0,
+          "forzaId": 2957
+        },
+        {
+          "teamId": 715,
+          "teamName":"Emmen",
+          "value": 0.5,
+          "points": 0,
+          "forzaId": 2965
+        },
+        {
+          "teamId": 716,
+          "teamName":"VVV-Venlo",
+          "value": 0.6,
+          "points": 0,
+          "forzaId": 2980
+        },
+        {
+          "teamId": 717,
+          "teamName":"Excelsior",
+          "value": 0.4,
+          "points": 0,
+          "forzaId": 6478
+        }
+       
+      ]
+  
+},
+  {
+      "id":8,
+      "leagueName":"Russian Premier League",
+      "countryCode":"ru",
+      "country":"Russia",
+      "flag":"assets/flag/img/russia.png",
+      "numberOfTeams":20,
+      "teams":[{
+          "teamId": 800,
+          "teamName":"CSKA Moscow",
+          "value": 3.55,
+          "points": 0,
+          "forzaId": 2325
+        },
+        {
+          "teamId": 801,
+          "teamName":"Zenit Saint Petersburg",
+          "value": 3.25,
+          "points": 0,
+          "forzaId": 2321
+        },
+        {
+          "teamId": 802,
+          "teamName":"Dynamo Moscow",
+          "value": 3.0,
+          "points": 0,
+          "forzaId": 2315
+        },
+        {
+          "teamId": 803,
+          "teamName":"Rubin Kazan",
+          "value": 2.9,
+          "points": 0,
+          "forzaId": 2333
+        },
+        {
+          "teamId": 804,
+          "teamName":"Rostov",
+          "value": 2.7,
+          "points": 0,
+          "forzaId": 2326
+        },
+        {
+          "teamId": 805,
+          "teamName":"Spartak Moscow",
+          "value": 2.9,
+          "points": 0,
+          "forzaId": 2323
+        },
+        {
+          "teamId": 806,
+          "teamName":"Krasnodar",
+          "value": 3,
+          "points": 0,
+          "forzaId": 2343
+        },
+        {
+          "teamId": 807,
+          "teamName":"Lokomotiv Moscow",
+          "value": 3.1,
+          "points": 0,
+          "forzaId": 2320
+        },
+        {
+          "teamId": 808,
+          "teamName":"Krylia Sovetov Samara",
+          "value": 2.1,
+          "points": 0,
+          "forzaId": 2322
+        },
+        {
+          "teamId": 809,
+          "teamName":"Ural Yekaterinburg",
+          "value": 1.8,
+          "points": 0,
+          "forzaId": 7529
+        },
+        {
+          "teamId": 810,
+          "teamName":"Akhmat Grozny",
+          "value": 1.5,
+          "points": 0,
+          "forzaId": 5131
+        },
+        {
+          "teamId": 811,
+          "teamName":"Anzhi Makhachkala",
+          "value": 1.8,
+          "points": 0,
+          "forzaId": 2327
+        },
+        {
+          "teamId": 812,
+          "teamName":"Yenisey Krasnoyarsk",
+          "value": 1.3,
+          "points": 0,
+          "forzaId": 7639
+        },
+        {
+          "teamId": 813,
+          "teamName":"Arsenal Tula",
+          "value": 1.2,
+          "points": 0,
+          "forzaId": 35301
+        },
+        {
+          "teamId": 814,
+          "teamName":"Ufa",
+          "value": 0.7,
+          "points": 0,
+          "forzaId": 74241
+        },
+        {
+          "teamId": 815,
+          "teamName":"Orenburg",
+          "value": 0.5,
+          "points": 0,
+          "forzaId": 24118
+        }
+       
+      ]
+  
+}
+
+
+  ]
+}
+ 

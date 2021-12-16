@@ -1,0 +1,24 @@
+   
+
+	
+	window.onload = function() {
+  		var firstStep = document.getElementsByClassName('step')[0];
+  		firstStep.className += " current";
+	};
+
+
+   function _toggleDisplay(selector) {
+      var e = document.querySelector(selector);
+      if (e.hasClass("hide") === true) {
+        e.removeClass('hide').addClass('show');
+      } else {
+        e.removeClass('show').addClass('hide');
+      }
+    }
+
+
+
+ 
+
+
+
